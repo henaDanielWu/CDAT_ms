@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Training and Testing
 
 * Test:
-Need to load the trained [model file]()[], put the file in `./code/pre_models/`.
+Need to download the trained [model file](https://pan.baidu.com/s/12cq6lwbEwIn0MQ0o-PeboA)[uovx], put the file in `./code/pre_models/`.
 Then run the following command：
 ```shell
 ./run.sh
