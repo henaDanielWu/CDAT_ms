@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ##  Testing
 
-* Test:
+
 If you want to test, you need to download the trained [model file](https://pan.baidu.com/s/12cq6lwbEwIn0MQ0o-PeboA)[uovx] and place it in  `./code/pre_models/`.
 Then run the following command：
 ```shell
