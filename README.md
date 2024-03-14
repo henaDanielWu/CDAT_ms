@@ -19,11 +19,22 @@ pip install -r requirements.txt
 ```
 
 
-## Training and Testing
+##  Testing
 
 * Test:
-Need to download the trained [model file](https://pan.baidu.com/s/12cq6lwbEwIn0MQ0o-PeboA)[uovx], put the file in `./code/pre_models/`.
+If you want to test, you need to download the trained [model file](https://pan.baidu.com/s/12cq6lwbEwIn0MQ0o-PeboA)[uovx] and place it in  `./code/pre_models/`.
 Then run the following command：
 ```shell
 ./run.sh
+```
+## Reference
+If you use CDAT in your research, please cite our work by using the following BibTeX entry:
+```shell
+@article{gong2023adaptive,
+  title={Adaptive Teaching for Cross-Domain Crowd Counting},
+  author={Gong, Shenjian and Yang, Jian and Zhang, Shanshan},
+  journal={IEEE Transactions on Multimedia},
+  year={2023},
+  publisher={IEEE}
+}
 ```
