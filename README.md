@@ -34,7 +34,6 @@ If you use CDAT in your research, please cite our work by using the following Bi
   title={Adaptive Teaching for Cross-Domain Crowd Counting},
   author={Gong, Shenjian and Yang, Jian and Zhang, Shanshan},
   journal={IEEE Transactions on Multimedia},
-  year={2023},
-  publisher={IEEE}
+  year={2023}
 }
 ```
